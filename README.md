@@ -3,6 +3,8 @@
 
 This script plays a typewriter sample whenever you hit a key.
 
+EASILY alterable to play ANY .wav file you so desire.
+
 Depends on xinput, sed, and ALSA "aplay".
 
 This project is not "finished" and likely never will be.
