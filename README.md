@@ -3,6 +3,8 @@
 
 This script plays a typewriter sample whenever you hit a key.
 
+Written on Ubuntu 20.04 LTS
+
 EASILY alterable to play ANY .wav file you so desire.
 
 Depends on xinput, sed, and ALSA "aplay".
